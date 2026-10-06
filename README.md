@@ -15,7 +15,9 @@ How to Run
 4.   Ensure a model has been trained before testing or evaluating
 
 Environment default values:
+
 GRID_SIZE = 8
+
 MAX_STEPS = 60
 STARTING_ROBOT_POSITION = np.array([0, 0])
 STARTING_COW_POSITION = np.array([4, 4])
